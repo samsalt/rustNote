@@ -1,7 +1,5 @@
 # Notes on Recoverable Errors with `Result` in Rust
 
-This note summarizes how to handle recoverable errors in Rust using the `Result<T, E>` enum.
-
 ## 1\. The `Result` Enum
 
 Rust handles recoverable errors with the `Result<T, E>` enum. It has two variants:
